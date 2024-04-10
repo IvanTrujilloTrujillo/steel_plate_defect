@@ -1,1 +1,1 @@
-# abalone_regression
+# Steel Plate Defect Prediction (Kaggle Competition)
